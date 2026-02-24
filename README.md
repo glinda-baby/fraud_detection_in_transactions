@@ -14,7 +14,7 @@ This repository showcases my project work in Machine Learning about the predicti
 
 The contents are:
 - 🗒️ _Data set **Fraud_Detection_in_Transactions.csv**  which is used for analysis_  
-- 🗒️ _Model deployed using Random Forest Algorithm in VS Code_
+- 🗒️ _Model deployed using Support Vector Machine Algorithm in VS Code_
 - 🗒️ _App built using Streamlit_
 
 # 🔍ABOUT THE DATASET #
@@ -59,7 +59,7 @@ _Fraudulent transactions present significant risks to businesses and consumers. 
 _Visual Studio Code (VS Code)_
 
 # ALGORITHM IMPLEMENTED #
-_Random Forest Algorithm_
+_Support Vector Machine Algorithm_
   
 # PYTHON LIBRARIES USED #
  - _Numpy_
@@ -72,14 +72,14 @@ _Random Forest Algorithm_
  - _Loading dataset_
  - _Data Preprocessing_
  - _Exploratory Data Analysis (EDA)_
- - _Droping unwanted columns_
- - _Filling missing values_
+ - _Encoding using get_dummies method_
+ - _dropping unwanted columns_
+ - _filling missing values_
  - _Seperating Input and Output_
- - _Encoding_
  - _Train-Test Split_
+ - _Normalisation using MinMaxScaler
  - _Model Creation_
  - _Performance Evaluation_
- - _Generating classification report_
 
 # CONCLUSION #
 Thank you for taking the time to explore this project. I hope it will be useful and insightful for anyone interested in prediction of Fraudulent Transactions.
