@@ -77,7 +77,7 @@ _Support Vector Machine Algorithm_
  - _filling missing values_
  - _Seperating Input and Output_
  - _Train-Test Split_
- - _Normalisation using MinMaxScaler
+ - _Normalisation using MinMaxScaler_
  - _Model Creation_
  - _Performance Evaluation_
 
